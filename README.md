@@ -40,15 +40,15 @@
 ## Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dinaosaurus&layout=compact&langs_count=10&theme=blue_navy&custom_title=Time%20by%20language%20since%2011/03/2025" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dinaosaure&layout=compact&langs_count=10&theme=blue_navy&custom_title=Time%20by%20language%20since%2011/03/2025" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinaosaurus&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinaosaure&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=dinaosaurus&theme=blue_navy&border_radius=5&mode=weekly&card_height=215" width="40%" />
+  <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=dinaosaure&theme=blue_navy&border_radius=5&mode=weekly&card_height=215" width="40%" />
 </p>
 
 
