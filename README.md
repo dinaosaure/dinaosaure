@@ -2,7 +2,7 @@
 <table align="center" width="95%" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: none; border-spacing: 0;">
   <tr>
     <td align="center" width="250" style="border: none; border-style: none; vertical-align: top;">
-      <img src="./ressources/StarterPack.png" width="180" alt="Dina's Starter Pack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
+      <img src="./ressources/StarterPack.png" width="200" alt="Dina's Starter Pack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
     </td>
     <td style="text-align: left; padding-left: 25px; border: none; border-style: none; vertical-align: top;">
       <p style="font-size: 16px; color: #CDD6F4; margin-top: 0px;">
