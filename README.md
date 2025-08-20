@@ -9,7 +9,7 @@
       <p style="font-size: 16px; color: #CDD6F4; margin-top: 0px;">
         🚀 Computer Science Engineering Student @ <a href="https://www.epita.fr" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">EPITA</a> (Paris).<br>
         Passionate about <strong>Cybersecurity</strong>, <strong>Problem-Solving</strong>, and exploring <strong>Web & Mobile Development</strong>.<br>
-        💡 Driven student thriving on challenges, eager to build tangible solutions. Currently studying abroad @ <a href="https://www.upm.es/internacional" target="_blank" style="color: #89B4FA; text-decoration: none;">UPM</a> Madrid (Spring '25)!
+        💡 Driven student thriving on challenges, eager to build tangible solutions.
       </p>
       <p style="font-size: 14px; color: #A6ADC8; margin-top: 15px;">
         🔭 Currently focusing on: Mobile App Development & IT Security.
