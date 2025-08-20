@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi there, I'm Dina Didouche! 🦕</h1>
 
 <table align="center" width="95%" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: none; border-spacing: 0;">
   <tr>
     <td align="center" width="250" style="border: none; border-style: none; vertical-align: top;">
-      <img src="./ressources/StarterPack.png" width="250" alt="Dina's Starter Pack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
+      <img src="./ressources/StarterPack.png" width="180" alt="Dina's Starter Pack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
     </td>
     <td style="text-align: left; padding-left: 25px; border: none; border-style: none; vertical-align: top;">
       <p style="font-size: 16px; color: #CDD6F4; margin-top: 0px;">
@@ -13,14 +12,6 @@
       </p>
       <p style="font-size: 14px; color: #A6ADC8; margin-top: 15px;">
         🔭 Currently focusing on: Web Development & IT Security.
-      </p>
-      <p style="font-size: 14px; color: #BAC2DE; margin-top: 15px; line-height: 1.6;">
-        🗣️ Languages:<br>
-        🇫🇷 French (Native)<br>
-        🇬🇧 English (C1)<br>
-        🇪🇸 Spanish (B2)<br>
-        🇨🇳 Chinese (B1)<br>
-        🇩🇿 Arabic (Notions)
       </p>
        <p style="margin-top: 15px; font-size: 16px; color: #CDD6F4;">
          🌐 Discover more on my website: <a href="https://dinaosaure.github.io" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">dinaosaure.github.io</a>
