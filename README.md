@@ -12,7 +12,7 @@
         💡 Driven student thriving on challenges, eager to build tangible solutions.
       </p>
       <p style="font-size: 14px; color: #A6ADC8; margin-top: 15px;">
-        🔭 Currently focusing on: Mobile App Development & IT Security.
+        🔭 Currently focusing on: IT Security.
       </p>
       <p style="font-size: 14px; color: #BAC2DE; margin-top: 15px; line-height: 1.6;">
         🗣️ Languages:<br>
