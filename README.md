@@ -1,3 +1,8 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=005fa3&text=IT%20student&reversal=false&section=header&animation=fadeIn&fontAlign=50&fontAlignY=80&textBg=false&descAlign=50&fontSize=40&fontColor=005fa3">
+</div>
+<br>
 
 <table align="center" width="95%" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border: none; border-spacing: 0;">
   <tr>
