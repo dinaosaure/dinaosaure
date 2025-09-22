@@ -19,7 +19,7 @@
         🔭 Currently focusing on: Web Development & IT Security.
       </p>
        <p style="margin-top: 15px; font-size: 16px; color: #CDD6F4;">
-         🌐 Discover more on my website: <a href="https://dinaosaure.github.io" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">dinaosaure.github.io</a>
+         🌐 Discover more on my website: <a href="https://dinaosaure.github.io" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">dina-didouche.fr</a>
        </p>
     </td>
   </tr>
