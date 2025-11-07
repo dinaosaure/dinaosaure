@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/>   
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#"/>   
   <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/>   
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/>   
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin"/>   
   <img src="https://skillicons.dev/icons?i=ocaml&theme=dark" alt="OCaml" title="OCaml"/>   
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/>
@@ -44,7 +44,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>   
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/>   
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" title="GitLab"/>   
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" title="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="react" title="React"/>   
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter"/>   
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio"/>   
   <img src="https://skillicons.dev/icons?i=rider&theme=dark" alt="Rider" title="Rider"/>   
