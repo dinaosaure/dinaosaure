@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=005fa3&text=IT%20student&reversal=false&section=header&animation=fadeIn&fontAlign=50&fontAlignY=80&textBg=false&descAlign=50&fontSize=40&fontColor=005fa3">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=005fa3&text=Apprentice%20Engineer%20Student&reversal=false&section=header&animation=fadeIn&fontAlign=50&fontAlignY=80&textBg=false&descAlign=50&fontSize=36&fontColor=005fa3">
 </div>
 <br>
 
@@ -10,16 +10,14 @@
       <img src="./ressources/StarterPack.png" width="200" alt="Dina's Starter Pack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
     </td>
     <td style="text-align: left; padding-left: 25px; border: none; border-style: none; vertical-align: top;">
-      <p style="font-size: 16px; color: #CDD6F4; margin-top: 0px;">
-        🚀 Computer Science Engineering Student @ <a href="https://www.epita.fr" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">EPITA</a> (Paris).<br>
-        Passionate about <strong>Cybersecurity</strong>, <strong>Problem-Solving</strong>, and exploring <strong>Web & Mobile Development</strong>.<br>
-        💡 Driven student thriving on challenges, eager to build tangible solutions.
-      </p>
-      <p style="font-size: 14px; color: #A6ADC8; margin-top: 15px;">
-        🔭 Currently focusing on: Web Development & IT Security.
+      <p style="font-size: 16px; color: #CDD6F4; margin-top: 0px; line-height: 1.6;">
+        🎓 <strong>Computer Science Engineering Student</strong> @ <a href="https://www.epita.fr" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">EPITA</a> (Paris), specializing in <strong>Cybersecurity & Systems</strong>.<br>
+        ⚙️ Currently working as an <strong>Apprentice Engineer</strong>, focusing on <strong>Backend Development</strong> (Java/Quarkus) and <strong>DevOps practices</strong> (Docker, Kubernetes, CI/CD).<br>
+        🛡️ <strong>Aspiring DevSecOps / Cloud Security Engineer</strong> — passionate about: <strong>Cloud Infrastructure</strong>, <strong>Securing CI/CD</strong>, <strong>AI & Agent Tooling</strong>, <strong>System Administration</strong> (Linux/Arch), and low-level systems programming.<br>
+        💡 Driven by: Building resilient, scalable, and secure architectures from the ground up.
       </p>
        <p style="margin-top: 15px; font-size: 16px; color: #CDD6F4;">
-         🌐 Discover more on my website: <a href="https://dinaosaure.github.io" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">dina-didouche.fr</a>
+         🌐 Discover more on my website: <a href="https://dina-didouche.fr" target="_blank" style="color: #89B4FA; text-decoration: none; font-weight: bold;">dina-didouche.fr</a>
        </p>
     </td>
   </tr>
@@ -29,69 +27,56 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+### ☁️ DevOps, Cloud & Systems
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/>   
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#"/>   
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/>   
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin"/>   
-  <img src="https://skillicons.dev/icons?i=ocaml&theme=dark" alt="OCaml" title="OCaml"/>   
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/>
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>   
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/>   
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" title="GitLab"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="react" title="React"/>   
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter"/>   
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio"/>   
-  <img src="https://skillicons.dev/icons?i=rider&theme=dark" alt="Rider" title="Rider"/>   
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/>   
-  <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" title="Vim"/>   
-  <img src="https://skillicons.dev/icons?i=emacs&theme=dark" alt="Emacs" title="Emacs"/>   
-  <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot Engine" title="Godot Engine"/>   
-  <img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX" title="LaTeX"/>   
-  <img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity"/>   
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino"/>   
-  <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" title="Blender"/>   
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="DotNet" title=".NET"/>
-</div>
-
-### ⚙️ Operating Systems
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" title="Windows"/>   
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/>   
-  <img src="https://skillicons.dev/icons?i=apple&theme=dark" alt="macOS" title="macOS"/>   
-  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu"/>   
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="Arch Linux" title="Arch Linux"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" title="GitLab CI"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nix&theme=dark" alt="NixOS" title="NixOS"/>
 </div>
 
+### 💻 Backend & Systems Programming
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java (Quarkus Backend)"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python (Scripting & Automation)"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C (Low-level & Systems)"/>
+</div>
+
+### ⚙️ Systems & Development Environment
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" title="Vim"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rider&theme=dark" alt="Rider" title="Rider"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=emacs&theme=dark" alt="Emacs" title="Emacs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX" title="LaTeX"/>
+</div>
+
+### 🌐 Web & Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio"/>
+</div>
+
 ---
 
+## 🔭 Projects Showcase
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinaosaure&show_icons=true&theme=blue_navy&hide_border=true&cache_seconds=86400&bg_color=00000000" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=dinaosaure&theme=blue_navy&hide_border=true&border_radius=5&mode=weekly&card_height=215&background=00000000" width="48%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dinaosaure&layout=compact&langs_count=10&theme=blue_navy&custom_title=Time%20by%20language%20since%2011/03/2025&hide_border=true&bg_color=00000000" width="60%" alt="WakaTime Stats"/>
-</p>
-
----
-
-## 🚀 Projects Showcase
-
-*   [**Personal Website**](https://github.com/dinaosaure/dinaosaure.github.io): This portfolio site! Built with HTML, CSS, JS, hosted on GitHub Pages. ✨
-*   [**GreenWatch App (UPM)**](https://github.com/lucasbnrd05/flutter_app): Flutter app (Kotlin backend) monitoring drought/flood impacts using real-time data & sensors. 🌳💧 *(Mobile Dev Course)*
-*   [**Kotlin Android App (UPM)**](https://github.com/lucasbnrd05/epitie): Android app developed during Mobile App Development course, applying advanced concepts. 📱 *(Kotlin)*
-*   [**S3 Project "Hidden Palace" (EPITA)**](https://github.com/dinaosaure/HiddenPalace): Word search solver in C, including neural network development. 🧠 *(C Language)*
-*   **AFIT (EPITA):** Transcription of advanced arithmetic algorithms into OCaml. 🐫 *(OCaml, Source code private)*
-*   [**Video Game "Devs" (EPITA)**](https://github.com/CelinaMeiLin/SUPERDEVS): Led the development of a rogue-like game. 🎮 *(C# / Godot Engine)*
+* 🧠 [**S3 Project "Hidden Palace" (EPITA)**](https://github.com/dinaosaure/HiddenPalace): Optical Character Recognition (OCR) and word search solver built entirely in **C**, including custom Neural Network development and low-level memory management. *(C / Neural Network)*
+* ⚙️ [**VIM Configuration & Dotfiles**](https://github.com/dinaosaure/VIM_config_dinaosaure): Personal **Arch Linux**, i3wm, and **Vim** configuration files, demonstrating daily comfort with Unix-like systems, CLI tooling, and workflow automation. *(Vimscript / Bash)*
+* 🤖 **AI Agents & Custom Skills**: Designing custom agent skills and automated workflows for AI coding assistants and LLM tooling (Agentic workflows, prompt architecture & context management). *(AI Agents / LLM Tooling)*
+* 🌐 **Infrastructure Automation & DevSecOps Lab** *(Work in Progress)*: Designing resilient deployment architectures and secure CI/CD pipelines (Docker containerization, GitLab CI, security scanning & automation). *(DevSecOps / Cloud)*
+* 📱 [**GreenWatch App (UPM)**](https://github.com/lucasbnrd05/flutter_app): Flutter app with a Kotlin backend monitoring drought and flood impacts using real-time data & sensors. *(Flutter / Kotlin)*
+* 🧩 **AFIT (EPITA)**: Transcription and formalization of advanced arithmetic algorithms into **OCaml**. *(OCaml, private repository)*
+* [**Video Game "Devs" (EPITA)**](https://github.com/CelinaMeiLin/SUPERDEVS): Led the development of a rogue-like game. 🎮 *(C# / Godot Engine)*
+* ✨ [**Personal Website**](https://github.com/dinaosaure/dinaosaure.github.io): Portfolio site built with HTML, CSS, JS, hosted on GitHub Pages.
 
 ---
 
@@ -108,11 +93,9 @@
 
 <p align="center">Feel free to reach out or connect with me:</p>
 <p align="center">
-  <!-- Utilisation du style 'social' pour les badges -->
-  <a href="https://dinaosaure.github.io" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/Website-Dina_Didouche-blue?style=social&logo=githubpages" alt="Website"/>
+  <a href="https://dina-didouche.fr" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Website-dina--didouche.fr-blue?style=social&logo=githubpages" alt="Website"/>
   </a>
-  <!-- !!! Vérifie que ce lien LinkedIn est correct !!! -->
   <a href="https://www.linkedin.com/in/dina-didouche/" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-Dina%20Didouche-blue?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -120,15 +103,13 @@
     <img src="https://img.shields.io/badge/Email-dina.didouche@epita.fr-red?style=social&logo=gmail" alt="Email"/>
   </a>
   <a href="https://github.com/dinaosaure" target="_blank" style="margin: 0 5px;">
-      <img src="https://img.shields.io/badge/GitHub-dinaosaure-grey?style=social&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-dinaosaure-grey?style=social&logo=github" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<!-- GIF Sélectionné -->
 <p align="center">
-  <!-- Option 2: Coding Girl / Focused -->
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
 </p>
 
@@ -137,3 +118,4 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=005fa3&reversal=false&section=footer&animation=fadeIn&fontAlign=50&fontAlignY=80&textBg=false&descAlign=50&fontSize=40&fontColor=005fa3)
 
 </div>
+
